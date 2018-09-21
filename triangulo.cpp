@@ -16,7 +16,7 @@ int main (){
         
         cout << "Valor nao pode ser igual a zero." << endl;
 
-    }else if((a<b+c&&a>abs(b-c))){
+    }else if (a<b+c&&a>abs(b-c) || (b<a+c&&b>abs(a-c) || (c<b+a&&c>abs(b-a)){
 
         cout << "é um triangulo!" << endl;
 
