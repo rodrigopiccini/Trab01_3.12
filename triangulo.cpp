@@ -1,3 +1,4 @@
+// Fazer 5.14
 // Bianca Santos
 // Rodrigo Piccini
 #include <iostream>
@@ -22,7 +23,7 @@ int main (){
 
     }else{
         cout << "nao é um triangulo!" << endl;
-    
+    a<b+c&&a>abs(b-c))
     }
 
    
